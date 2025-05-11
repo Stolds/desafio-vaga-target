@@ -1,0 +1,14 @@
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\bin\Debug\net8.0\ResultadoSoma.exe
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\bin\Debug\net8.0\ResultadoSoma.deps.json
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\bin\Debug\net8.0\ResultadoSoma.runtimeconfig.json
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\bin\Debug\net8.0\ResultadoSoma.dll
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\bin\Debug\net8.0\ResultadoSoma.pdb
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.AssemblyInfoInputs.cache
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.AssemblyInfo.cs
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.csproj.CoreCompileInputs.cache
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.dll
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\refint\ResultadoSoma.dll
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.pdb
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ResultadoSoma.genruntimeconfig.cache
+C:\coisas minhas\desafio vaga\primeiroDesafio\ResultadoSoma\obj\Debug\net8.0\ref\ResultadoSoma.dll

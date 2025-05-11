@@ -1,0 +1,14 @@
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.AssemblyInfoInputs.cache
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.AssemblyInfo.cs
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.csproj.CoreCompileInputs.cache
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\bin\Debug\net8.0\CalculadoraPercentual.exe
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\bin\Debug\net8.0\CalculadoraPercentual.deps.json
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\bin\Debug\net8.0\CalculadoraPercentual.runtimeconfig.json
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\bin\Debug\net8.0\CalculadoraPercentual.dll
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\bin\Debug\net8.0\CalculadoraPercentual.pdb
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.dll
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\refint\CalculadoraPercentual.dll
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.pdb
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\CalculadoraPercentual.genruntimeconfig.cache
+C:\coisas minhas\desafio vaga\quartoDesafio\calculadorapercentual\obj\Debug\net8.0\ref\CalculadoraPercentual.dll

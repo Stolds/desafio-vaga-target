@@ -1,0 +1,17 @@
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\bin\Debug\net8.0\CalculadoraFaturamento.exe
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\bin\Debug\net8.0\CalculadoraFaturamento.deps.json
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\bin\Debug\net8.0\CalculadoraFaturamento.runtimeconfig.json
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\bin\Debug\net8.0\CalculadoraFaturamento.dll
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\bin\Debug\net8.0\CalculadoraFaturamento.pdb
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.AssemblyInfoInputs.cache
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.AssemblyInfo.cs
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.csproj.CoreCompileInputs.cache
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.dll
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\refint\CalculadoraFaturamento.dll
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.pdb
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.genruntimeconfig.cache
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\ref\CalculadoraFaturamento.dll
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\CalculadoraFaturamento.csproj.AssemblyReference.cache
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\coisas minhas\desafio vaga\terceiroDesafio\calculadorafaturamento\obj\Debug\net8.0\Calculad.328941BD.Up2Date

@@ -1,0 +1,14 @@
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\bin\Debug\net8.0\EscalaFibonacci.exe
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\bin\Debug\net8.0\EscalaFibonacci.deps.json
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\bin\Debug\net8.0\EscalaFibonacci.runtimeconfig.json
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\bin\Debug\net8.0\EscalaFibonacci.dll
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\bin\Debug\net8.0\EscalaFibonacci.pdb
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.AssemblyInfoInputs.cache
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.AssemblyInfo.cs
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.csproj.CoreCompileInputs.cache
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.dll
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\refint\EscalaFibonacci.dll
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.pdb
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\EscalaFibonacci.genruntimeconfig.cache
+C:\coisas minhas\desafio vaga\segundodesafio\escalafibonacci\obj\Debug\net8.0\ref\EscalaFibonacci.dll

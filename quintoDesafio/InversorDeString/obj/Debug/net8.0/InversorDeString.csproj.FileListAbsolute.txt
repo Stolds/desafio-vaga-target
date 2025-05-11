@@ -1,0 +1,14 @@
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\bin\Debug\net8.0\InversorDeString.exe
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\bin\Debug\net8.0\InversorDeString.deps.json
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\bin\Debug\net8.0\InversorDeString.runtimeconfig.json
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\bin\Debug\net8.0\InversorDeString.dll
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\bin\Debug\net8.0\InversorDeString.pdb
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.AssemblyInfoInputs.cache
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.AssemblyInfo.cs
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.csproj.CoreCompileInputs.cache
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.dll
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\refint\InversorDeString.dll
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.pdb
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\InversorDeString.genruntimeconfig.cache
+C:\coisas minhas\desafio vaga\quintoDesafio\inversorDestring\obj\Debug\net8.0\ref\InversorDeString.dll
